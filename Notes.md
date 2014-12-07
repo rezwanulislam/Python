@@ -1,4 +1,4 @@
-# See all models of Django Project
+See all models of Django Project
   - go to manage.py shell in shell your project
   - run :
   - from django.db import models
